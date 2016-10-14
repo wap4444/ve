@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "kz.topstar"
+        id        = "kz.vezuedu"
         version   = "1.2.0">
 
-    <name>Top Star Fitness</name>
+    <name>ВезуЕду</name>
 
     <description>
-Мобильное приложение для клиентов клуба Top-Star
+Мобильное приложение ВезуЕду
     </description>
 
     <author href="http://phonegap.com" email="elegant4444@gmail.com">
